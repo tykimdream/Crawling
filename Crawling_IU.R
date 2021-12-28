@@ -10,7 +10,7 @@ library(stringr)
 library(tidyr)
 library(plyr)
 
-#setwd("C:\\Users\\tykim\\OneDrive\\바탕 화면\\2021-1학기\\데이터마이닝R")
+#setwd("C:\\Users\\tykim")
 #getwd()
 
 Sys.setlocale("LC_ALL","Korean")
