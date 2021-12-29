@@ -2,7 +2,7 @@
 
 ### 1. 위키피디아에서 아이유 페이지를 크롤링한다.
 
-<img src = "https://user-images.githubusercontent.com/53204415/147590371-c9c7e874-2944-4fa2-b039-99c00e62c695.png" widht = "400">
+<img src = "https://user-images.githubusercontent.com/53204415/147590371-c9c7e874-2944-4fa2-b039-99c00e62c695.png" width = "400">
 
 <img src = "https://user-images.githubusercontent.com/53204415/147588592-3acf4ab0-d5f9-454c-81a5-40a9f3cbb44c.png" width="500" >
 
